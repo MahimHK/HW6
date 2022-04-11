@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(129, 185, 215);
+}
+.bluebackground{
+	background-color: black;
+	color: pink;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 20px;
+  width: 100%;
+}
+#italic{
+	font-style: italic;
+	background-color: purple;
+	color: yellow;
+}
+
+
+
